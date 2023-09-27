@@ -1,3 +1,5 @@
+This is a fork of https://github.com/nickpegg/lg whre I added CURL support
+
 # Looking Glass
 
 This is a simple, not-very-cleverly-named looking glass tool. Supports pinging and MTRing arbitrary addresses. Doesn't support BGP tables like a lot of looking glass tools do since I don't personally own a router that speaks it with the internet.
